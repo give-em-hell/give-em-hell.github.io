@@ -81,6 +81,11 @@ header.banner img {
   text-decoration: none;
 }
 
+.archive-heading {
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
 .post-content {
 text-indent: 2em;
   padding: 3em;
